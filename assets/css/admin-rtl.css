@@ -1,0 +1,21 @@
+/**
+ * WPCalibrate Product Catalog Connector - RTL Stylesheet
+ */
+
+.wpcal-pcc-wrap {
+	margin: 20px 0 40px 20px;
+}
+
+.wpcal-pcc-nav-tab {
+	border-radius: 6px 6px 0 0;
+}
+
+.wpcal-pcc-table th,
+.wpcal-pcc-table td {
+	text-align: right;
+}
+
+.wpcal-pcc-copy-btn {
+	margin-right: auto;
+	margin-left: 0;
+}

@@ -1,0 +1,23 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs & Temporary Files
+*.log
+*.tmp
+debug.txt
+
+# Dependency Directories
+vendor/
+node_modules/
+
+# Local Environment Overrides
+.env
+.env.local
